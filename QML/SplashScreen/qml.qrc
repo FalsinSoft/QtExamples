@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>splashscreen.qml</file>
+        <file>window.qml</file>
+    </qresource>
+</RCC>
