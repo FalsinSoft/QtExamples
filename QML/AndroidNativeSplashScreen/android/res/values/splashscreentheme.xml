@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SplashScreenTheme" parent="android:Theme">
+        <item name="android:background">@drawable/splashscreen</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">false</item>
+		<item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>
